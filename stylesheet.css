@@ -1,0 +1,30 @@
+
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 20px;
+    max-width: 250px;
+}
+
+body, html {
+  height: 100%;
+}
+
+.navbar {
+    background-color: #0000FF;
+    border-color: #0000FF;
+}
+
+
+.bg {
+  /* The image used */
+  background-image: url("https://media.giphy.com/media/1Ubrzxvik2puE/giphy.gif");
+
+  /* Full height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
